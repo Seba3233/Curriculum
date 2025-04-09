@@ -1,0 +1,22 @@
+header {
+    background-image: url(../images/nav.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 25em;
+}
+
+body {
+    background: #cee3df77;
+}
+
+i {
+    font-weight: 800;
+}
+
+.card { 
+    background-color: #c5ddd977; 
+}
+
+nav {
+    background-color: c5ddd977;
+}
